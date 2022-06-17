@@ -2,8 +2,7 @@
 <div align="center"><img width="250px" src="https://i.pinimg.com/originals/71/86/1c/71861c0ac36b8b3772e65b0f9eca1abd.gif" /></div>
 <h1 align="center">Future Full Stack Developer. 
 Committed and Persevering.</h1>
-<h2 align="center">I love 🎮videogames, 🎹music and 
-the art of 🎬cinematography </h2>
+<h2 align="center">🎮videogames🎮, 🎹music🎹, 🎬cinematography🎬 </h2>
 
 <br />
 <div align="center">
