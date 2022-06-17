@@ -47,13 +47,7 @@ the art of 🎬cinematography </h2>
  
 </p>
 
-
-
-
 <br />
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SobiDani&label=Profile%20views&color=0e75b6&style=flat" alt="kns303" /> </p>
 
 <p align="center">
  
