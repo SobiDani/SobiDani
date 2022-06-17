@@ -47,7 +47,7 @@ Committed and Persevering.</h1>
  
 <p align="center">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SobiDani&show_icons=true&hide_border=true&theme=dark" alt="kns303" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SobiDani&show_icons=true&hide_border=true&theme=dark" alt="SobiStats" />
  
 </p>
 
@@ -55,7 +55,7 @@ Committed and Persevering.</h1>
 
 <p align="center">
  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SobiDani&show_icons=true&hide_border=true&theme=white" alt="JoseUH" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SobiDani&show_icons=true&hide_border=true&theme=white" alt="SobiStats" />
  
 </p>
 
