@@ -9,7 +9,7 @@ Committed and Persevering.</h1>
  
 💻 I’m a Junior Full Stack Developer 💻
 
-📌 See my work: https://project-web-cv.vercel.app/ 📌
+📌 See my work: soon 📌
 
 📫 Contact me: danieljarahenao@gmail.com 📫
 
