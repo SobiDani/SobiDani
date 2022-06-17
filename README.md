@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danny. 👋🏼 💻 </h1>
-<div align="center"><img width="250px" src="[https://i.pinimg.com/originals/9f/9b/7f/9f9b7f2309e1860bca793e28d02920a1.gif](https://www.pinterest.cl/pin/578712620852300084/)" /></div>
+<div align="center"><img width="250px" src="https://i.pinimg.com/originals/9f/9b/7f/9f9b7f2309e1860bca793e28d02920a1.gif" /></div>
 <h1 align="center">Future Full Stack Developer. 
 Committed and Persevering.</h1>
 <h2 align="center">I love 🎮videogames, 🎹music and 
