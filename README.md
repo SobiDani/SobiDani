@@ -22,7 +22,7 @@ Committed and Persevering.</h1>
 <a href="https://www.linkedin.com/in/daniel-jara-henao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-torres-kns/" height="30" width="40" /></a>
 </p>
 
-<br />
+<div align="center"></div>
 
 <h3 align="center">Skills:</h3>
 
