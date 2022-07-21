@@ -9,7 +9,6 @@ Committed and Persevering.</h1>
  
 💻 I’m a Junior Full Stack Developer 💻
 
-📌 See my work: soon 📌
 
 📫 Contact me: danieljarahenao@gmail.com 📫
 
