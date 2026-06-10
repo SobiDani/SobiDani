@@ -130,12 +130,6 @@
 </div>
  
  <br />
- 
-<p align="center">
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SobiDani&show_icons=true&hide_border=true&theme=dark" alt="SobiStats" />
- 
-</p>
 
 <br />
 
