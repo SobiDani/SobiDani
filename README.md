@@ -103,7 +103,7 @@
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"
+      src="https://github.com/user-attachments/assets/a1abc582-70bd-4bef-be3e-13fe457c5fae"
       alt="sass"
       width="40"
       height="40"
