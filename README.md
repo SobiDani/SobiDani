@@ -13,8 +13,6 @@
 
 </div>
 
- <div align="center"><img width="200px" src="https://64.media.tumblr.com/82de22713b2a1aabb887022dfe9f9c2f/tumblr_mh8yl4ojtP1rrsa2po1_500.gifv" /></div>
-
 <h3 align="center">Conect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-jara-henao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-torres-kns/" height="30" width="40" /></a>
@@ -132,14 +130,6 @@
  <br />
 
 <br />
-
-<p align="center">
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SobiDani&show_icons=true&hide_border=true&theme=white" alt="SobiStats" />
- 
-</p>
-
- 
 
 <br />
 
